@@ -6,8 +6,8 @@ This is a web application that allows you to summarize articles by simply provid
 
 > To install and run this application on your local machine, follow these steps:
 
-  >  Clone this repository: git clone https://github.com/your-username/article-summarizer.git
-  >  Navigate to the project directory: cd article-summarizer
+  >  Clone this repository: git clone https://github.com/rahurabh/Summarizer.git
+  >  Navigate to the project directory: cd summarizer
   >  Install the dependencies: npm install
   >  Start the development server: npm run dev
 
@@ -30,4 +30,4 @@ This application was developed using the following technologies:
 ## Screenshot
 ![image](https://user-images.githubusercontent.com/63224718/235830211-1d0624fa-31cd-432b-b2fa-3d8c97ce7b2b.png)
 
-This application was developed by learning for (JavaScript Mastery channel)[https://www.youtube.com/@javascriptmastery]
+This application was developed by learning for [JavaScript Mastery channel](https://www.youtube.com/@javascriptmastery)
