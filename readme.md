@@ -4,11 +4,14 @@ This is a web application that allows you to summarize articles by simply provid
 
 ## Installation
 
-> To install and run this application on your local machine, follow these steps:
+To install and run this application on your local machine, follow these steps:
 
   >  Clone this repository: git clone https://github.com/rahurabh/Summarizer.git
+  
   >  Navigate to the project directory: cd summarizer
+  
   >  Install the dependencies: npm install
+  
   >  Start the development server: npm run dev
 
 The application should now be running on http://localhost:5173
