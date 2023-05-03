@@ -1,6 +1,6 @@
 ## Article Summarizer
 
-This is a web application that allows you to summarize articles by simply providing a link or by pasting whole article to the article. The application uses Rapid API to extracts news/article body from a URL and uses GPT to summarize the article content and presents the summary in a clear and concise format.
+This is a web application that allows you to summarize articles by simply providing a link to the article. The application uses Rapid API to extracts news/article body from a URL and uses GPT to summarize the article content and presents the summary in a clear and concise format.
 
 ## Installation
 
