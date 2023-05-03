@@ -25,8 +25,11 @@ To use the application, simply enter the URL of the article you want to summariz
 This application was developed using the following technologies:
 
    > Vite - Build tool and development server
+   
    > React - JavaScript library for building user interfaces
+   
    > Redux Toolkit - Redux library for efficient state management
+   
    > Rapid API - API marketplace used to summarize articles
 
 
