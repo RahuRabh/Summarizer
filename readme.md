@@ -1,18 +1,33 @@
-# Build and Deploy Your Own ChatGPT AI SaaS Business with React
-![AI Summarizer](https://i.ibb.co/NK12JG2/Thumbnail-26.png)
+## Article Summarizer
 
-## Introduction
-If you're a solo developer in 2023, you have the power to build robust AI software startups! Watch this 1-hour video and make an Article Summarizer Application using OpenAI's GPT model.
- 
-Alongside building this application, you'll also learn how to:
-- setup a ReactJS project using Vite
-- create a responsive, beautiful UI/UX with a nice touch of glass morphism using Tailwind CSS
-- make advanced RTK query API requests that fire on condition
-- save history using the local storage
-- handle form events and catch errors
-- implement copy to clipboard
-- write clean code
+This is a web application that allows you to summarize articles by simply providing a link or by pasting whole article to the article. The application uses Rapid API to extracts news/article body from a URL and uses GPT to summarize the article content and presents the summary in a clear and concise format.
 
-## Want to land your dream programming job in 3 - 6 months?
-⭐ JSM Masterclass Experience - https://jsmastery.pro/masterclass
-Become a Software Engineer. Guaranteed.
+## Installation
+
+> To install and run this application on your local machine, follow these steps:
+
+  >  Clone this repository: git clone https://github.com/your-username/article-summarizer.git
+  >  Navigate to the project directory: cd article-summarizer
+  >  Install the dependencies: npm install
+  >  Start the development server: npm run dev
+
+The application should now be running on http://localhost:5173
+
+## Usage
+
+To use the application, simply enter the URL of the article you want to summarize and enter the return button. The application will then retrieve the article using the Rapid API and present a summary of the article.
+
+## Technologies Used
+
+This application was developed using the following technologies:
+
+   > Vite - Build tool and development server
+   > React - JavaScript library for building user interfaces
+   > Redux Toolkit - Redux library for efficient state management
+   > Rapid API - API marketplace used to summarize articles
+
+
+## Screenshot
+![image](https://user-images.githubusercontent.com/63224718/235830211-1d0624fa-31cd-432b-b2fa-3d8c97ce7b2b.png)
+
+This application was developed by learning for (JavaScript Mastery channel)[https://www.youtube.com/@javascriptmastery]
