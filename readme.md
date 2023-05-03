@@ -36,4 +36,4 @@ This application was developed using the following technologies:
 ## Screenshot
 ![image](https://user-images.githubusercontent.com/63224718/235830211-1d0624fa-31cd-432b-b2fa-3d8c97ce7b2b.png)
 
-This application was developed by learning for [JavaScript Mastery channel](https://www.youtube.com/@javascriptmastery)
+This application was developed by following along [JavaScript Mastery channel](https://www.youtube.com/@javascriptmastery)
