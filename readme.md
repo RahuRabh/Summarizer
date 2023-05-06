@@ -2,10 +2,6 @@
 
 This is a web application that allows you to summarize articles by simply providing a link to the article. The application uses Rapid API to extracts news/article body from a URL and uses GPT to summarize the article content and presents the summary in a clear and concise format.
 
-## Screenshot
-
-![image](https://user-images.githubusercontent.com/63224718/236598840-2c2df523-a0e7-4d3a-b40c-73d71eae4a24.png)
-
 ## Installation
 
 To install and run this application on your local machine, follow these steps:
